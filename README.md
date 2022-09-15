@@ -1,0 +1,1 @@
+# allskynet-meteor-detector-by-allskycams
