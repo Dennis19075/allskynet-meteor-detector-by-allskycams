@@ -46,7 +46,7 @@ The AllSkyNet UI will appear and you will can select an image at a time from you
 
 – Implementation of this amazing feature to the [AllSkyCams system](https://github.com/mikehankey/amscams).
 
-– Use this model detection as a filter to save the images collected from the AllSkyCams and not as a single image detector.
+– Use this detection model as a filter to save the images collected from the AllSkyCams and not as a single image detector.
 
 <br>
 
@@ -54,3 +54,4 @@ The AllSkyNet UI will appear and you will can select an image at a time from you
 
 - Mike Hankey [[ref](https://github.com/mikehankey)]
 - Tensorflow Object Detection API [[ref](https://github.com/tensorflow/models)]
+- Roboflow [[ref](https://blog.roboflow.com/train-a-tensorflow2-object-detection-model/)]
