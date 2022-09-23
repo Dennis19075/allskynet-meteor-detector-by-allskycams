@@ -1,0 +1,12 @@
+
+.container {
+    background-color: rgb(255, 255, 255);
+    color: rgb(47, 45, 45);
+  }
+
+.center {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
